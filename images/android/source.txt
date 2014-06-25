@@ -1,0 +1,2 @@
+Brand Guidelines | Android Developers
+http://developer.android.com/distribute/tools/promote/brand.html
